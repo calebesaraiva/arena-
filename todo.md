@@ -1,0 +1,12 @@
+- [x] Inserir telefone 55 99840-27548 na landing page
+- [x] Inserir e-mail comercial comercial@nexustecnologialtda.com.br na landing page
+- [x] Inserir CNPJ 52.671.137/0001-71 na landing page
+- [x] Adicionar botão de WhatsApp com mensagem pronta sobre interesse em comprar a arena
+- [x] Reescrever a narrativa final para falar diretamente com o comprador
+- [x] Destacar dimensões do terreno, campo e área construída
+- [x] Valorizar possibilidades de uso da arena no texto comercial
+- [x] Reforçar contatos por WhatsApp e e-mail no bloco final
+- [ ] Revisar o pacote ZIP entregue e identificar arquivos ausentes
+- [ ] Gerar novo ZIP com todas as alterações recentes
+- [ ] Incluir no ZIP uma pasta com as imagens enviadas pelo usuário
+- [ ] Entregar o ZIP completo corrigido
